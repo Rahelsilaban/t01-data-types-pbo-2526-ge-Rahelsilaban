@@ -1,0 +1,9 @@
+Nama : Rahel Juri Elisabet Silaban
+NIM  : 12S24054
+
+1. coba jelaskan soal ini kepada saya dan apa yang dimau soal
+2. coba beri kode sederhana dan jelaskan tiap kode
+3. kami menggunakan main template java nya yg ini, coba sesuaikan
+4. bntu saya memahami soal ini, tolong perlihatkan kodenya dan jelaskan tiap kode
+5. jadi saya mau anda membuatkan compilernya untuk membedakan mau menyelesaikan soal 1 atau soal 2 saat dicompile. kayak terminalnya nanya soal yg mana yg mau dikerjakan. buat else atau if else atau semacamnya
+6. 
