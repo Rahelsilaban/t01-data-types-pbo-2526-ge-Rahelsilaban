@@ -7,3 +7,4 @@ NIM  : 12S24054
 4. bntu saya memahami soal ini, tolong perlihatkan kodenya dan jelaskan tiap kode
 5. jadi saya mau anda membuatkan compilernya untuk membedakan mau menyelesaikan soal 1 atau soal 2 saat dicompile. kayak terminalnya nanya soal yg mana yg mau dikerjakan. buat else atau if else atau semacamnya
 6. kerjakan sampai nomor 5
+7. jelaskan kelima soal ini dan kode yg anda berikan tadi
